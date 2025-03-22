@@ -41,6 +41,10 @@ public class First {
                 System.out.println("invalid day number");
 
         }
+        int i=0;
+ while( i<5){
+            System.out.println("*");
+            i++;}
     }
 
 
