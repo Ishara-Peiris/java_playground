@@ -47,5 +47,12 @@ public class First {
             i++;}
     }
 
+    int[] nameArr = new int[10];
+System.out.println(nameArr[5]);  // Output: 0 (default value)
+System.out.println(nameArr[10]); // Error: ArrayIndexOutOfBoundsException
 
-    }
+
+
+
+
+}
